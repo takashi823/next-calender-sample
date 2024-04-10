@@ -6,14 +6,14 @@
   "singleQuote": false,
   "jsxSingleQuote": false,
   "arrowParens": "always",
-  "printWidth": 80,
+  "printWidth": 100,
   "bracketSpacing": true,
   "plugins": ["prettier-plugin-organize-imports"],
   "overrides": [
     {
       "files": "*.html",
       "options": {
-        "printWidth": 360
+        "printWidth": 100
       }
     },
     {
